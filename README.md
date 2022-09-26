@@ -14,5 +14,5 @@
 |10|DSA11___|Cây nhị phân|
 |11|Các mã khác|
 > Đây chưa phải là tất cả các bài trên hệ thống nhưng đó là tất cả những bài mình làm được.<br>
-> Nếu bạn thấy hữu ích, đừng quên thả sao cho mình nhé :fire:
+> Nếu bạn thấy hữu ích, đừng quên tặng sao cho mình nhé :fire:
 
